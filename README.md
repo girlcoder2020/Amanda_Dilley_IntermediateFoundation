@@ -1,0 +1,2 @@
+# Amanda_Dilley_IntermediateFoundation
+Intermediate foundation algorithms on Coding Dojo
